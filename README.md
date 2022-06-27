@@ -1,3 +1,7 @@
+# Project: Lymphography Data Set-Neural Networks
+
+<img src="https://files.spazioweb.it/06/93/06939c02-076d-451f-a7cf-2455a3baaf06.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Centro Linfedema di Milano" data-noaft="1" style="width: 325.479px; height: 528px; margin: 0px;">
+
 ### Building a Machine Learning and Deep Learning Models on Lympography data.
 
 About:
@@ -47,7 +51,9 @@ Features:
 
 
 The aims to develop a model to enhance lymphatic diseases diagnosis by the use of Machine learning and Deep learning models with different architectures, we will see how Machine LearningL models perform in comparsion to Deep Learning models.
+
 This study has been carried out in two major phases:
 - In the first stage, with out considered Oversample/Upsample method, analyzed and built ML and DL models. This step did not improve the classification performance.
 - In the second stage, used the Oversample/Upsample method analysed and build the ML and DL models.
+
 In this analysis, a approach has been investigated to improve the diagnosis of lymph diseases by Oversample and Hyperparameter tuning on DL and ML algorithms.
